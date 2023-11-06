@@ -97,7 +97,7 @@
 <br/>  
 
 
-<div align="center">
+<div align="">
 <a href="https://github.com/PrathameshPawar119">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrathameshPawar119&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrathameshPawar119&theme=2077" height="180em" />
