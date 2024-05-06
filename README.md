@@ -3,10 +3,10 @@
 
 - 🔭 I’m currently working on Myself.
 - 🌱 I’m currently learning **React and Machine Learning**
-- 💬 Ask me about **PHP, Laravel**
+- 💬 Ask me about **PHP, Laravel, Nextjs**
 - 📫 How to reach me **prathameshpawar28788@gmail.com**
 - 👨‍💻 All of my projects are available at **https://prathameshpawar9696.vercel.app/**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16QvhHw2ymUgWLv2aht9aE4ShOl8Sh5ka/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sVyWf-_jsj1WI0mPmDHunKaNHGTW24G5/view?usp=sharing)
 
 <div>
   <a href="https://www.linkedin.com/in/prathamesh-pawar-a87744215" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
