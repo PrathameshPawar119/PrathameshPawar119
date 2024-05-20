@@ -6,7 +6,8 @@
 - 💬 Ask me about **PHP, Laravel, Nextjs**
 - 📫 How to reach me **prathameshpawar28788@gmail.com**
 - 👨‍💻 All of my projects are available at **https://prathameshpawar9696.vercel.app/**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sVyWf-_jsj1WI0mPmDHunKaNHGTW24G5/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lQSzQpjOF3U0o_5jqzNXuq7W6LZbvWQm/view?usp=sharing
+)
 
 <div>
   <a href="https://www.linkedin.com/in/prathamesh-pawar-a87744215" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
