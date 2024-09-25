@@ -2,12 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrathameshPawar119&label=Profile%20views&color=0e75b6&style=flat" alt="PrathameshPawar119" /> </p>
 
 - 🔭 I’m currently working on Myself.
-- 🌱 I’m currently learning **React and Machine Learning**
+- 🌱 I’m currently learning **Gen AI and Machine Learning**
 - 💬 Ask me about **PHP, Laravel, Nextjs**
 - 📫 How to reach me **prathameshpawar28788@gmail.com**
-- 👨‍💻 All of my projects are available at **https://prathameshpawar9696.vercel.app/**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lQSzQpjOF3U0o_5jqzNXuq7W6LZbvWQm/view?usp=sharing
-)
+- 👨‍💻 visit **https://prathameshpawar.in/**
+
 
 <div>
   <a href="https://www.linkedin.com/in/prathamesh-pawar-a87744215" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
