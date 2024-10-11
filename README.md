@@ -6,6 +6,7 @@
 - 💬 Ask me about **PHP, Laravel, Nextjs**
 - 📫 How to reach me **prathameshpawar28788@gmail.com**
 - 👨‍💻 visit **https://prathameshpawar.in/**
+- Resume - https://drive.google.com/file/d/1rjGYtd-IztdbkYRK5ft2UPYmYrcFdrxo/view?usp=sharing
 
 
 <div>
